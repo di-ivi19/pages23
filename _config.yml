@@ -7,7 +7,7 @@ baseurl: ""
 url: "https://di-ivi19.github.io/pages23" # Убедитесь, что это ваш URL
 
 # Выбираем официальную тему для GitHub Pages
-theme: jekyll-theme-minimal # Или другая тема из списка
+theme: jekyll-theme-architect
 
 plugins:
   - jekyll-feed

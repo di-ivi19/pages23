@@ -7,11 +7,12 @@ baseurl: ""
 url: "https://di-ivi19.github.io/" # Убедитесь, что это ваш URL
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Navigation
 header_pages:

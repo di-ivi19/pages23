@@ -4,10 +4,10 @@ email: your-email@example.com # Замените на свой email
 description: >-
   Welcome to my simple Jekyll site!
 baseurl: ""
-url: "https://di-ivi19.github.io" # Замените на ваш GitHub username
+url: "https://di-ivi19.github.io/pages23" # Убедитесь, что это ваш URL
 
 # Выбираем официальную тему для GitHub Pages
-theme: jekyll-theme-midnight # Вы можете выбрать другую, см. список ниже
+theme: jekyll-theme-minimal # Или другая тема из списка
 
 plugins:
   - jekyll-feed

@@ -7,7 +7,7 @@ baseurl: ""
 url: "https://di-ivi19.github.io/pages23" # Убедитесь, что это ваш URL
 
 # Выбираем официальную тему для GitHub Pages
-theme: jekyll-theme-architect
-
+remote_theme: pages-themes/architect@v0.2.0
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme
+- jekyll-feed

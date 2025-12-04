@@ -1,0 +1,13 @@
+# _config.yml
+title: My Simple Jekyll Site
+email: your-email@example.com # Замените на свой email
+description: >-
+  Welcome to my simple Jekyll site!
+baseurl: ""
+url: "https://di-ivi19.github.io" # Замените на ваш GitHub username
+
+# Выбираем официальную тему для GitHub Pages
+theme: jekyll-theme-minimal # Вы можете выбрать другую, см. список ниже
+
+plugins:
+  - jekyll-feed
